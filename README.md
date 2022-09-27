@@ -1,6 +1,6 @@
-### Just Run this Command 
+### GET STARTED
      python App.py
 ![Face Detection](https://pbs.twimg.com/media/ExMKE8sUYAQy-tj?format=png&name=900x900)
 
-### Close the Process 
+### CLOSE THE PROCESS 
      cmd/ctrl + C in the terminal
